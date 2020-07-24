@@ -57,8 +57,41 @@ header h1 .seo {
   background-position: center;
 }
 
-/* 
+/* Apply styles to main content */
+main {
+  width: 75%;
+  height: 100%;
+  display: inline-block;
+  margin-left: 20px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
 
+.service {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.service h2 {
+  font-size: 36px;
+  display: inline;
+}
+
+.service img {
+  max-height: 200px;
+}
+
+.service p {
+  display: block;
+  color: #ffffff;
+  margin-block-start: 1em;
+  margin-inline-end: 1em;
+  font-size: 16px;
+  line-height: 1.7;
+}
 
 .float-left {
   float: left;
@@ -69,6 +102,9 @@ header h1 .seo {
   float: right;
   margin-left: 25px;
 }
+
+/* 
+
 
 .content {
   width: 75%;
