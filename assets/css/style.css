@@ -87,7 +87,6 @@ main {
 
 .service p {
   display: block;
-  color: #ffffff;
   margin-block-start: 1em;
   margin-inline-end: 1em;
   font-size: 16px;
@@ -111,9 +110,35 @@ main {
   clear: both;
   float: right;
   width: 20%;
-  height: 100%;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 940px;
   background-color: #2589bd;
+  overflow: auto;
+}
+
+.benefits div {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+
+.benefits h3 {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.benefits img {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}
+
+.benefits p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 /* 
