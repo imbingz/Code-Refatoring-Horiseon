@@ -64,13 +64,13 @@ main {
   display: inline-block;
   margin-left: 20px;
   word-wrap: break-word;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .service {
   margin-bottom: 20px;
   padding: 50px;
-  height: 300px;
+  height: auto;
   background-color: #0072bb;
   color: #ffffff;
 }
