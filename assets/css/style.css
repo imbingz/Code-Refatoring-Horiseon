@@ -76,7 +76,8 @@ main {
 }
 
 .service h2 {
-  font-size: 36px;
+  font-size: 32px;
+  font-weight: 600;
   display: inline;
 }
 
@@ -103,15 +104,7 @@ main {
   margin-left: 25px;
 }
 
-/* 
-
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
+/* Apply styles to aside-benefits */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -122,6 +115,17 @@ main {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
+
+/* 
+
+
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+
 
 .benefit-lead {
   margin-bottom: 32px;
