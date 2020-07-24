@@ -4,12 +4,12 @@
   padding: 0;
   margin: 0;
 }
-
+/* apply style to body */
 body {
   background-color: #d9dcd6;
   font-family: Helvetica, "Open Sans", Mulish;
 }
-
+/* header style start */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -18,8 +18,10 @@ header {
   color: #ffffff;
 }
 
-.header h1 {
-  display: inline-block;
+
+
+h1 {
+  display: inline;
   font-size: 48px;
 }
 
