@@ -30,7 +30,7 @@ header h1 .seo {
 }
 
 .nav-links li a {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 600;
     color: #ffffff;
     text-decoration: none;
@@ -41,9 +41,10 @@ header h1 .seo {
     padding: 0px 20px;
 }
 
-a {
-
+.nav-links a:hover {
+    color: #d9dcd6;
 }
+
 
 /* nav ul li {
   float: right;
