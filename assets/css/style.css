@@ -129,16 +129,15 @@ main {
 
 .benefits img {
   display: block;
-  margin: 10px auto;
+  margin: 0 auto;
   max-width: 150px;
 }
 
 .benefits p {
   display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
+  padding: 0 5px;
 }
 
 /* Apply styles to footer */
