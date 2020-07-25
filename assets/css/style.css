@@ -7,7 +7,11 @@
 /* apply style to body */
 body {
 	background-color: #d9dcd6;
-	font-family: "Open Sans", Helvetica;
+	font-family: Helvetica, Arial, 'Lucida Sans', Verdana, sans-serif;
+}
+h1,
+footer {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
 }
 
 /* Header style starts */
@@ -25,13 +29,13 @@ header h1 {
 	font-size: 48px;
 }
 
-header h1 .seo {
+#seo {
 	color: #d9dcd6;
 }
 
 .nav-links li a {
 	font-size: 20px;
-	font-weight: 600;
+	font-weight: 500;
 	color: #ffffff;
 	letter-spacing: 0.02em;
 	text-decoration: none;
@@ -87,10 +91,9 @@ main {
 }
 
 .service p {
-	display: block;
 	margin-block-start: 1em;
 	margin-inline-end: 1em;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.7;
 }
 
@@ -136,8 +139,8 @@ main {
 
 .benefits p {
 	display: block;
-	font-size: 16px;
-	line-height: 1.4;
+	font-size: 18px;
+	line-height: 1.5;
 	padding: 0 5px;
 }
 
