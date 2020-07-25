@@ -20,8 +20,11 @@
 
 ![Horiseon](/screenshot.png)
 
-### Links to the website
+### Link to the website
 [Horiseon Website](t https://imbingz.github.io/Code-Refatoring-Horiseon/)
+
+### Link to the files
+[Refactoring Horiseon] (https://github.com/imbingz/Code-Refatoring-Horiseon)
 
 ### What I have learned
   1. Keep the code clean and structure design simple, bearing the questions: " Will the future me understand the intention of this block of codes?" 
