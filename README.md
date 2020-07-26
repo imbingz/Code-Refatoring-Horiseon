@@ -6,7 +6,7 @@
 * Social Media Marketing
 
 
-### Project Goal
+### Project Goals
 * Keep code DRY (Don’t Repeat Yourself) by using logical structure independent of styling and positioning 
 * Meets accessibility standards and guidelines 
 * Best SEO optimization practice 
