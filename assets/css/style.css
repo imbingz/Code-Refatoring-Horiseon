@@ -184,12 +184,13 @@ footer h4 {
 		margin: 20px;
 		width: auto;
 		height: auto;
+		text-align: center;
 	}
 
 	.service img {
 		display: block;
-		clear: both;
-		margin: 25px;
+		float: none;
+		margin: 25px auto;
 	}
 
 	.benefits {
@@ -203,7 +204,7 @@ footer h4 {
 	}
 	.benefits div {
 		background-color: #2589bd;
-		margin: 20px;
+		margin: 10px;
 	}
 
 	.benefits div p {
