@@ -19,9 +19,9 @@
 ### Screenshot 
 
 ![Horiseon](./screenshots/screenshot.png)
-![Mobile-Screenshot-1](screenshots/Screenshot1.png =275X)
-![Mobile-Screenshot-2](screenshots/screenshot2.png =275X)
-![Mobile-Screenshot-3](screenshots/screenshot3.png =275X)
+![Mobile-Screenshot-1](screenshots/Screenshot1.png =200X)
+![Mobile-Screenshot-2](screenshots/screenshot2.png =200X)
+![Mobile-Screenshot-3](screenshots/screenshot3.png =200X)
 
 
 ### Link to the website
