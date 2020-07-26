@@ -64,9 +64,13 @@ header h1 {
 
 /* Apply styles to main content */
 main {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.container {
 	width: 75%;
 	height: 100%;
-	display: inline-block;
 	margin-left: 20px;
 }
 
@@ -81,7 +85,7 @@ main {
 .service h2 {
 	font-size: 32px;
 	font-weight: 600;
-	display: inline;
+	margin-bottom: 1em;
 }
 
 .service img {
@@ -91,7 +95,7 @@ main {
 .service p {
 	font-size: 18px;
 	line-height: 1.7;
-	margin: 1em 0;
+	margin: 10px;
 }
 
 .float-left {
@@ -111,19 +115,20 @@ main {
 	clear: both;
 	float: right;
 	width: 20%;
-	height: 940px;
+	min-height: 940px;
 	background-color: #2589bd;
-	overflow: auto;
+	display: flex;
+	flex-direction: column;
 }
 
 .benefits div {
-	margin-bottom: 32px;
+	margin: 30px 0;
 	color: #ffffff;
 	text-align: center;
 }
 
 .benefits h3 {
-	margin: 20px auto;
+	margin-bottom: 10px;
 	font-size: 24px;
 	font-weight: 600;
 }
@@ -135,7 +140,6 @@ main {
 }
 
 .benefits p {
-	display: block;
 	font-size: 18px;
 	line-height: 1.5;
 	padding: 0 5px;
