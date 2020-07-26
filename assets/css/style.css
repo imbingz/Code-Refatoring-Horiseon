@@ -69,7 +69,7 @@ main {
 	flex-flow: row wrap;
 	justify-content: space-between;
 }
-.container {
+.content {
 	width: 75%;
 	height: 100%;
 	margin-left: 20px;
@@ -173,7 +173,7 @@ footer h4 {
 
 /* for screen size 815px or smaller */
 @media screen and (max-width: 815px) {
-	.container {
+	.content {
 		box-sizing: border-box;
 		padding: 0;
 		margin: 0;
