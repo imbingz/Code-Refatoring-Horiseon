@@ -161,8 +161,8 @@ footer h4 {
 }
 
 /* media query to improve responsiveness */
-/* for screen size 1024px or smaller */
-@media screen and (max-width: 1024px) {
+/* for screen size 1035px or smaller */
+@media screen and (max-width: 1035px) {
 	.service {
 		height: auto;
 	}
