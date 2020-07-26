@@ -63,6 +63,7 @@ header h1 {
 }
 
 /* Apply styles to main content */
+
 main {
 	display: flex;
 	flex-flow: row wrap;
@@ -77,7 +78,7 @@ main {
 .service {
 	margin-bottom: 20px;
 	padding: 50px;
-	height: 300px;
+	min-height: 300px;
 	background-color: #0072bb;
 	color: #ffffff;
 }
@@ -93,9 +94,9 @@ main {
 }
 
 .service p {
+	margin: 10px;
 	font-size: 18px;
 	line-height: 1.7;
-	margin: 10px;
 }
 
 .float-left {
@@ -113,7 +114,6 @@ main {
 	margin-right: 20px;
 	padding: 20px;
 	clear: both;
-	float: right;
 	width: 20%;
 	min-height: 940px;
 	background-color: #2589bd;
@@ -150,10 +150,52 @@ footer {
 	padding: 30px;
 	clear: both;
 	text-align: center;
-	font-size: 13px;
 	line-height: 1.5;
+	font-size: 13px;
 }
 
 footer h4 {
 	font-size: 20px;
+}
+
+/* media query to improve responsiveness */
+@media screen and (max-width: 815px) {
+	.container {
+		box-sizing: border-box;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+	}
+
+	.service {
+		margin: 20px;
+	}
+
+	.service img {
+		display: block;
+		clear: both;
+		margin: 25px;
+	}
+
+	.benefits {
+		box-sizing: border-box;
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		height: auto;
+		flex-flow: row wrap;
+		background-color: #d9dcd6;
+	}
+	.benefits div {
+		background-color: #2589bd;
+		margin: 20px;
+	}
+
+	.benefits div p {
+		margin: 0 20px;
+	}
+
+	.benefits div h3 {
+		margin: 20px;
+	}
 }
