@@ -18,7 +18,11 @@
 
 ### Screenshot 
 
-![Horiseon](/screenshot.png)
+![Horiseon](./screenshots/screenshot.png)
+![Mobile-Screenshot-1](screenshots/Screenshot1.png)
+![Mobile-Screenshot-2](screenshots/screenshot2.png)
+![Mobile-Screenshot-3](screenshots/screenshot3.png)
+
 
 ### Link to the website
 https://imbingz.github.io/Code-Refatoring-Horiseon/
