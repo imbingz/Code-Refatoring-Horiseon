@@ -125,7 +125,7 @@ main {
 .benefits h3 {
 	margin: 20px auto;
 	font-size: 24px;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 .benefits img {
@@ -152,5 +152,4 @@ footer {
 
 footer h4 {
 	font-size: 20px;
-	display: inline;
 }
