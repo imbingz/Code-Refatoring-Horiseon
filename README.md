@@ -30,11 +30,11 @@ https://github.com/imbingz/Code-Refatoring-Horiseon
  1. Think on behalf of clients. Clients may not have the knowledge and awareness regarding the best practice for issues such as accessibilities, SEO and code maintenance. It is my job to make sure to deliver the clients solutions with long-term sustainability in mind.
  1. The last but not least is to pay extra attention to details. A typo or even a comma may break the functionalities of the codes. 
 
-### Screenshots - Desktop
+### Screenshots - Desktop Viewport
 
 ![Horiseon](./screenshots/screenshot.png)
 
-#### Screenshots - Mobile Device 
+### Screenshots - Mobile Viewport
 ![Mobile-Screenshot-1](screenshots/Screenshot1.png)
 ![Mobile-Screenshot-2](screenshots/screenshot2.png)
 ![Mobile-Screenshot-3](screenshots/screenshot3.png)
