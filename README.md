@@ -16,14 +16,6 @@
 * It is HTML and CSS optimized for SEO and Accessibility 
 * It is mobile/tablet optimized
 
-### Screenshot 
-
-![Horiseon](./screenshots/screenshot.png)
-![Mobile-Screenshot-1](screenshots/Screenshot1.png)
-![Mobile-Screenshot-2](screenshots/screenshot2.png)
-![Mobile-Screenshot-3](screenshots/screenshot3.png)
-
-
 ### Link to the website
 https://imbingz.github.io/Code-Refatoring-Horiseon/
 
@@ -37,3 +29,10 @@ https://github.com/imbingz/Code-Refatoring-Horiseon
  1. Think about SEO. A beautifully and functionally designed website is certainly important; however, it has no use if people cannot find it through search. A little changes in my code such as the title and meta tags can make a big difference for clients.
  1. Think on behalf of clients. Clients may not have the knowledge and awareness regarding the best practice for issues such as accessibilities, SEO and code maintenance. It is my job to make sure to deliver the clients solutions with long-term sustainability in mind.
  1. The last but not least is to pay extra attention to details. A typo or even a comma may break the functionalities of the codes. 
+
+### Screenshot 
+
+![Horiseon](./screenshots/screenshot.png)
+![Mobile-Screenshot-1](screenshots/Screenshot1.png)
+![Mobile-Screenshot-2](screenshots/screenshot2.png)
+![Mobile-Screenshot-3](screenshots/screenshot3.png)
