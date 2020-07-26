@@ -14,7 +14,7 @@
 
 ### This page uses HTML and CSS
 * It is HTML and CSS optimized for SEO and Accessibility 
-* It is not mobile optimized
+* It is mobile/tablet optimized
 
 ### Screenshot 
 
