@@ -146,14 +146,11 @@ footer {
 	padding: 30px;
 	clear: both;
 	text-align: center;
+	font-size: 13px;
+	line-height: 1.5;
 }
 
 footer h4 {
 	font-size: 20px;
 	display: inline;
-}
-
-footer p {
-	float: center;
-	line-height: 1.5;
 }
