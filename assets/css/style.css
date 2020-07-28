@@ -71,13 +71,13 @@ div.center {
   flex-flow: row wrap;
   justify-content: space-between;
 }
-div.center main {
+.center main {
   width: 75%;
   height: 100%;
   margin-left: 20px;
 }
 
-div.center main section.service {
+.center main section.service {
   margin-bottom: 20px;
   padding: 50px;
   height: 340px;
@@ -85,34 +85,34 @@ div.center main section.service {
   color: #ffffff;
 }
 
-div.center main section.service h2 {
+.center main section.service h2 {
   font-size: 32px;
   font-weight: 600;
   margin-top: 0.5em;
 }
 
-div.center main section.service img {
+.center main section.service img {
   max-height: 200px;
   margin-top: 1em;
 }
 
-div.center main section.service p {
+.center main section.service p {
   margin: 1em 0;
   font-size: 18px;
   line-height: 1.7;
 }
 
-div.center main section img.float-left {
+.center main section img.float-left {
   float: left;
   margin-right: 25px;
 }
-div.center main section img.float-right {
+.center main section img.float-right {
   float: right;
   margin-left: 25px;
 }
 
 /* Apply styles to aside-benefits */
-div.center aside {
+.center aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
@@ -124,25 +124,25 @@ div.center aside {
   overflow: auto;
 }
 
-div.center aside section.benefits {
+.center aside section.benefits {
   margin: 30px 0;
   color: #ffffff;
   text-align: center;
 }
 
-div.center aside section.benefits h3 {
+.center aside section.benefits h3 {
   margin-bottom: 10px;
   font-size: 28px;
   font-weight: 600;
 }
 
-div.center aside section.benefits img {
+.center aside section.benefits img {
   display: block;
   margin: 0 auto;
   max-width: 150px;
 }
 
-div.center aside section.benefits p {
+.center aside section.benefits p {
   font-size: 18px;
   line-height: 1.5;
   padding: 0 5px;
@@ -167,17 +167,17 @@ footer h4 {
   div span.hero {
     height: 700px;
   }
-  div.center main section.service {
+  .center main section.service {
     height: auto;
   }
-  div.center aside {
+  .center aside {
     height: auto;
   }
 }
 
 /* for screen size 815px or smaller */
 @media screen and (max-width: 815px) {
-  div.center main {
+  .center main {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -186,20 +186,20 @@ footer h4 {
   div span.hero {
     height: 500px;
   }
-  div.center main section.service {
+  .center main section.service {
     margin: 20px;
     width: auto;
     height: auto;
     text-align: center;
   }
 
-  div.center main section.service img {
+  .center main section.service img {
     display: block;
     float: none;
     margin: 25px auto;
   }
 
-  div.center aside {
+  .center aside {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -208,16 +208,16 @@ footer h4 {
     flex-flow: row wrap;
     background-color: #d9dcd6;
   }
-  div.center aside section.benefits {
+  .center aside section.benefits {
     background-color: #2589bd;
     margin: 10px 20px;
   }
 
-  div.center aside section.benefits p {
+  .center aside section.benefits p {
     margin-bottom: 25px;
   }
 
-  div.center aside section.benefits h3 {
+  .center aside section.benefits h3 {
     margin-top: 25px;
   }
 }
