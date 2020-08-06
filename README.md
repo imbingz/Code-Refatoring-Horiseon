@@ -24,12 +24,12 @@ https://github.com/imbingz/Code-Refatoring-Horiseon
 
 ### Screenshots - Desktop Viewport
 
-![Horiseon](./screenshots/screenshot.png)
+![Horiseon](./assets/images/screenshots/screenshot.png)
 
 ### Screenshots - Mobile Viewport
-![Mobile-Screenshot-1](screenshots/Screenshot1.png)
-![Mobile-Screenshot-2](screenshots/screenshot2.png)
-![Mobile-Screenshot-3](screenshots/screenshot3.png)
+![Mobile-Screenshot-1](./assets/images/screenshots/Screenshot1.png)
+![Mobile-Screenshot-2](./assets/images/screenshots/screenshot2.png)
+![Mobile-Screenshot-3](./assets/images/screenshots/screenshot3.png)
 
 
 ### What I have learned
